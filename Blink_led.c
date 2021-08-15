@@ -28,9 +28,8 @@ void delay(unsigned int time)
 
 
 
-/*
-for(P0=0x01; P0<0x80; P0=P0<<1)
-			delay(300);
-		for(P0=0x80; P0>0x01; P0=P0>>1)
-			delay(300);
-*/
+
+
+			
+		
+
